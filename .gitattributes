@@ -1,0 +1,5 @@
+*.img filter=lfs diff=lfs merge=lfs -text
+vmlinux filter=lfs diff=lfs merge=lfs -text
+*.tar.gz filter=lfs diff=lfs merge=lfs -text
+*.gz filter=lfs diff=lfs merge=lfs -text
+*.ko filter=lfs diff=lfs merge=lfs -text

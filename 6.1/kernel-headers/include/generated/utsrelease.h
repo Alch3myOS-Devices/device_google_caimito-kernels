@@ -1,0 +1,1 @@
+#define UTS_RELEASE "6.6.98-android15-8-g6936c266a210-ab15260253-4k"
